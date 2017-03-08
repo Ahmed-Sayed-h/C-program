@@ -12,7 +12,6 @@ namespace firstprogram
         {
             // استغفر الله العظيم
            // xdfsdfd
-            // رب اغفر لي
             int abdo=100+1000 ;
             Console.WriteLine("abdo= "+ (abdo-10));
             Console.ReadKey();         
